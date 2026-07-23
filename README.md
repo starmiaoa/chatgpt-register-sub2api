@@ -1,7 +1,5 @@
 # chatgpt-register-k12
 
-**由于openai将k12渠道关闭了 所以项目将无期限停更 谢谢大家的支持**
-
 `chatgpt-register-k12` 是一个本地 WebUI 工具，用于管理邮箱池、注册或登录 ChatGPT 账号、刷新账号工作空间上下文，并导出多种兼容 JSON。默认导出 Sub2API，也可以切换为 auth.json、CPA、Cockpit、9router、AxonHub 等格式。
 
 项目支持 Outlook/Gmail OAuth 邮箱池、Outlook plus alias、workspace/K12 上下文检查、已有账号邮箱验证码登录、并发执行和结果归档。仓库中的配置均为脱敏示例，不包含真实邮箱、密码、token、workspace ID 或运行结果。
